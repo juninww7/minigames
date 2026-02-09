@@ -1,0 +1,9 @@
+duracao-round: 30
+slot-batata: 4
+vida-ao-comecar: 20
+explosao-ao-perder: true
+som-tick: true
+mensagens:
+  inicio: "§eO jogo começou! Fuja da batata!"
+  recebeu: "§cVocê recebeu a BATATA QUENTE!"
+  perdeu: "§4Você perdeu!"
