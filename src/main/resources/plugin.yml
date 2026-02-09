@@ -1,0 +1,18 @@
+name: FR32Minigames
+main: br.fr32.minigames.FR32MinigamesPlugin
+version: 1.0.0
+author: FR32
+commands:
+  minigame:
+    description: Comando global de minigames
+    usage: /minigame
+  batata:
+    description: Comando do minigame batata quente
+    usage: /batata
+permissions:
+  batata.play:
+    description: Permite jogar batata quente
+    default: true
+  batata.admin:
+    description: Permite administrar batata quente
+    default: op
